@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋, I'm Eniola Arinde
 
-<!--
-**elvongray/elvongray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Senior Software Engineer** | Backend & Full-Stack | Passionate about building scalable systems, resilient APIs, and intuitive user experiences.  
 
-Here are some ideas to get you started:
+### 💡 About Me
+- 🌍 Remote-first engineer with ~9 years of experience across **fintech, mobility, and SaaS**.  
+- ⚙️ Skilled in **Python (Django, FastAPI)**, **JavaScript/TypeScript (React, Next.js, Vue)**, **PostgreSQL, Redis, Celery**, and **Docker/Kubernetes**.  
+- 🛠️ Experienced in **distributed systems**, **data integrations**, and **AI-powered workflows**.  
+- 📈 Love working on **early-stage products**, turning ideas into MVPs, and scaling them to production.  
+- ✨ Interested in **AI x developer productivity** and **infrastructure for emerging markets**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I'm Working On  
+- Exploring how **AI assistants** can reshape developer workflows.  
+- Building side projects in **Rust** and **agentic AI systems**.  
+
+### 📫 Let’s Connect
+- 💼 [LinkedIn](https://linkedin.com/in/elvongray)  
+- ✉️ [eniolaarinde1@gmail.com](mailto:eniolaarinde1@gmail.com)  
+
+---
+
+⭐️ _“I enjoy solving hard problems with simple, scalable solutions — and shipping software that delivers real user value.”_
+
