@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Eniola Arinde
 
-🚀 **Senior Software Engineer** | Backend & Full-Stack | Passionate about building scalable systems, resilient APIs, and intuitive user experiences.  
+🚀 **Senior Software Engineer** | Full-Stack | Passionate about building scalable systems, resilient APIs, and intuitive user experiences.  
 
 ### 💡 About Me
 - 🌍 Remote-first engineer with ~9 years of experience across **fintech, mobility, and SaaS**.  
