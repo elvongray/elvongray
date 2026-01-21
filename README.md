@@ -11,7 +11,7 @@
 
 ### 🔭 What I'm Working On  
 - Exploring how **AI assistants** can reshape developer workflows.  
-- Building side projects in **Rust** and **agentic AI systems**.  
+- Building side projects  
 
 ### 📫 Let’s Connect
 - 💼 [LinkedIn](https://linkedin.com/in/elvongray)  
